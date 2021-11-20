@@ -1,2 +1,2 @@
-# tailvue
-Tailvue is a tailwind component framework for Vue.js 
+# @vuetail/core
+Vuetail is a tailwind component framework for Vue.js 
